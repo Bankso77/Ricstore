@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd Ricstore && npm install && npm run build",
+  "outputDirectory": "Ricstore/dist",
+  "devCommand": "cd Ricstore && npm run dev",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
